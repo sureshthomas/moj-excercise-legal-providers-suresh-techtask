@@ -34,10 +34,10 @@ public class App implements ApplicationRunner {
             logger.info("arg-" + name + "=" + args.getOptionValues(name));
         }
         boolean containsOption = args.containsOption("db");
-        String db="";
-        if(containsOption) {
+        String db = "";
+        if (containsOption) {
             logger.info("Contains file name: " + containsOption);
-             db = args.getOptionValues("db").get(0);
+            db = args.getOptionValues("db").get(0);
             ConfigSettings.setDbFile(db);
         }
 

@@ -13,7 +13,8 @@ import java.util.List;
 
 import static uk.gov.justice.digital.legaladviser.resources.ConfigSettings.homePage;
 
-/** +
+/**
+ * +
  * The service is injected by Spring - autowiring
  * #TODO Paging is to be implemented , but not done due to time limits.
  */
@@ -30,13 +31,13 @@ public class LegalAdviserController {
         return homePage;
     }
 
-    @GetMapping(path = "/legaladviser/{id}",produces = "application/uk.gov.justice.digital.legaladviser.service-v1+json")
+    @GetMapping(path = "/legaladviser/{id}", produces = "application/uk.gov.justice.digital.legaladviser.service-v1+json")
     public LegalAdviser getProvider(@PathVariable int id) {
 
         return service.findById(id);
     }
 
-    @GetMapping(path = "/legaladvisers",produces = "application/uk.gov.justice.digital.legaladviser.service-v1+json")
+    @GetMapping(path = "/legaladvisers", produces = "application/uk.gov.justice.digital.legaladviser.service-v1+json")
     public List<LegalAdviser> getLegalAdvisersByCategory(@RequestParam(required = false) String[] categories) {
 
         return service.findByCategories(categories);

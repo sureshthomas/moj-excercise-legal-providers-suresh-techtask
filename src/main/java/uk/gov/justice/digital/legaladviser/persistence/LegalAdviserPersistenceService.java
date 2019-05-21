@@ -2,32 +2,42 @@ package uk.gov.justice.digital.legaladviser.persistence;
 
 import org.springframework.stereotype.Component;
 import uk.gov.justice.digital.legaladviser.domain.LegalAdviser;
+import uk.gov.justice.digital.legaladviser.exception.LegalAdviserNotFoundException;
 import uk.gov.justice.digital.legaladviser.resources.ConfigSettings;
-
 import java.util.List;
 import java.util.stream.Collectors;
 
+/***
+ * This is the service implementation class
+ */
 @Component
 public class LegalAdviserPersistenceService {
-    private static List<LegalAdviser> legalAdvisers;
-
-
+    private static  List<LegalAdviser> legalAdvisers;
     static {
         DataReader fileReader = new FileDataReader(ConfigSettings.getDbFile());
-        legalAdvisers = fileReader.Read();
+            legalAdvisers = fileReader.Read();
     }
 
+    /**
+     * Get all advisors
+     * @return all legal advisors
+     */
     private List<LegalAdviser> findAll() {
         return legalAdvisers;
     }
 
+    /***
+     * Get by UD
+     * @param id is the ID of the advisor
+     * @return an advisor
+     */
     public LegalAdviser findById(int id) {
         for (LegalAdviser provider : legalAdvisers) {
             if (provider.getId() == id) {
                 return provider;
             }
         }
-        return null;
+        throw new LegalAdviserNotFoundException("id= "+id);
     }
 
     /** +
@@ -78,6 +88,7 @@ public class LegalAdviserPersistenceService {
 
                 }
             }
+            if(filteredList.isEmpty()) throw new LegalAdviserNotFoundException("No agency matching the criteria");
             return filteredList;
         }
         return findAll();

@@ -6,25 +6,35 @@ import org.slf4j.LoggerFactory;
 import uk.gov.justice.digital.legaladviser.domain.LegalAdviser;
 
 import java.io.BufferedReader;
-import java.io.FileReader;
 import java.io.IOException;
+import java.io.InputStream;
+import java.io.InputStreamReader;
 import java.util.List;
 import java.util.regex.Pattern;
 import java.util.stream.Collectors;
 
+/***
+ * This class load the file resource legal providers
+ */
 public class FileDataReader implements DataReader {
 
     private static final Logger logger = LoggerFactory.getLogger(FileDataReader.class);
     //Only CSV files are supported now
-    private String fileName;
+    private final String fileName;
 
     FileDataReader(String fileName) {
         this.fileName = fileName;
     }
+
     @Override
     public List<LegalAdviser> Read() {
+
+        InputStream stream = getClass().getClassLoader().getResourceAsStream(fileName);
+        assert stream != null;
+        BufferedReader reader = new BufferedReader(new InputStreamReader(stream));
+
         Pattern pattern = Pattern.compile(",");
-        try (BufferedReader in = new BufferedReader(new FileReader(fileName))) {
+        try (BufferedReader in = new BufferedReader(reader)) {
             //Skip header line
             return in.lines().skip(1).map(line -> {
                 String[] columns = pattern.split(line.replace("\"", ""));

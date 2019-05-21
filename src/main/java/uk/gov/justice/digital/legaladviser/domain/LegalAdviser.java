@@ -1,21 +1,22 @@
 package uk.gov.justice.digital.legaladviser.domain;
 
-/** +
+/**
+ * +
  * POJO domain object representing legal adviser
  */
 public class LegalAdviser {
-    private int id;
-    private String name;
-    private String address1;
-    private String city;
-    private String postCode;
-    private String phone;
-    private String orgType;
-    private boolean catCrime;
-    private boolean catDebt;
-    private boolean catHousing;
-    private boolean catImmigrationOrAsylum;
-    private boolean catWelfareBenefits;
+    private final int id;
+    private final String name;
+    private final String address1;
+    private final String city;
+    private final String postCode;
+    private final String phone;
+    private final String orgType;
+    private final boolean catCrime;
+    private final boolean catDebt;
+    private final boolean catHousing;
+    private final boolean catImmigrationOrAsylum;
+    private final boolean catWelfareBenefits;
 
     public LegalAdviser(int id, String name, String address1, String city, String postCode, String phone, String orgType,
                         boolean catCrime, boolean catDebt, boolean catHousing, boolean catImmigrationOrAsylum, boolean catWelfareBenefits) {
@@ -51,49 +52,79 @@ public class LegalAdviser {
                 '}';
     }
 
+    /***
+     * Note that some of the unused getters are needed for Spring
+     * @return ID
+     */
     public int getId() {
         return id;
     }
 
+    @SuppressWarnings("unused")
     public String getName() {
         return name;
     }
 
+    @SuppressWarnings("unused")
     public String getAddress1() {
         return address1;
     }
 
+    @SuppressWarnings("unused")
     public String getCity() {
         return city;
     }
 
+    @SuppressWarnings("unused")
     public String getPostCode() {
         return postCode;
     }
 
+    @SuppressWarnings("unused")
     public String getPhone() {
         return phone;
     }
 
+    @SuppressWarnings("unused")
     public String getOrgType() {
         return orgType;
     }
 
+    /**
+     *
+     * @return crime advisor ?
+     */
     public boolean isCatCrime() {
         return catCrime;
     }
-
+    /**
+     *
+     * @return debt advisor ?
+     */
     public boolean isCatDebt() {
         return catDebt;
     }
 
+    /**
+     *
+     * @return Housing advisor ?
+     */
     public boolean isCatHousing() {
         return catHousing;
     }
 
+    /**
+     *
+     * @return ImmigrationOrAsylum advisor ?
+     */
     public boolean isCatImmigrationOrAsylum() {
         return catImmigrationOrAsylum;
     }
+
+    /**
+     *
+     * @return Welfare advisor ?
+     */
 
     public boolean isCatWelfareBenefits() {
         return catWelfareBenefits;
