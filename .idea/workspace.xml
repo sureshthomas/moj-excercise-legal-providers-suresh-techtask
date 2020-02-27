@@ -5,45 +5,42 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="23d2c2e0-a781-4567-aaaa-59a17a61ed78" name="Default Changelist" comment="Final commit">
-      <change afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/uk/gov/justice/digital/legaladviser/exception/ExceptionResponse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/uk/gov/justice/digital/legaladviser/exception/LegalAdviserApplicationExceptionHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/uk/gov/justice/digital/legaladviser/exception/LegalAdviserNotFoundException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/moj-excercise-legal-providers.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.10.2/fileContent/fileContent.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.2/fileContent/fileContent.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.10.2/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.2/fileHashes/fileHashes.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.10.2/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.2/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.2/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.2/javaCompile/classAnalysis.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.10.2/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.2/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.2/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.2/javaCompile/taskHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.10.2/taskHistory/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.2/taskHistory/taskHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.10.2/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.2/taskHistory/taskHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/workspace-id.txt.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/workspace-id.txt.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/uk/gov/justice/digital/legaladviser/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/uk/gov/justice/digital/legaladviser/App.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/classes/java/main/uk/gov/justice/digital/legaladviser/domain/LegalAdviser.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/uk/gov/justice/digital/legaladviser/domain/LegalAdviser.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/classes/java/main/uk/gov/justice/digital/legaladviser/persistence/DataReader.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/uk/gov/justice/digital/legaladviser/persistence/DataReader.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/classes/java/main/uk/gov/justice/digital/legaladviser/persistence/FileDataReader.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/uk/gov/justice/digital/legaladviser/persistence/FileDataReader.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/classes/java/main/uk/gov/justice/digital/legaladviser/persistence/LegalAdviserPersistenceService.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/uk/gov/justice/digital/legaladviser/persistence/LegalAdviserPersistenceService.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/classes/java/main/uk/gov/justice/digital/legaladviser/resources/ConfigSettings.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/uk/gov/justice/digital/legaladviser/resources/ConfigSettings.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/classes/java/main/uk/gov/justice/digital/legaladviser/service/LegalAdviserController.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/uk/gov/justice/digital/legaladviser/service/LegalAdviserController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/libs/legal-providers.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/libs/moj-excercise-legal-providers.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/legal-providers.csv" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/legal-providers.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/uk/gov/justice/digital/legaladviser/domain/LegalAdviser.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/uk/gov/justice/digital/legaladviser/domain/LegalAdviser.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/uk/gov/justice/digital/legaladviser/persistence/DataReader.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/uk/gov/justice/digital/legaladviser/persistence/DataReader.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/uk/gov/justice/digital/legaladviser/persistence/FileDataReader.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/uk/gov/justice/digital/legaladviser/persistence/FileDataReader.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/uk/gov/justice/digital/legaladviser/persistence/LegalAdviserPersistenceService.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/uk/gov/justice/digital/legaladviser/persistence/LegalAdviserPersistenceService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/uk/gov/justice/digital/legaladviser/service/LegalAdviserController.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/uk/gov/justice/digital/legaladviser/service/LegalAdviserController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/uk/gov/justice/digital/legaladviser/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/uk/gov/justice/digital/legaladviser/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/uk/gov/justice/digital/legaladviser/domain/LegalAdviser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/uk/gov/justice/digital/legaladviser/domain/LegalAdviser.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/uk/gov/justice/digital/legaladviser/persistence/DataReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/uk/gov/justice/digital/legaladviser/persistence/DataReader.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/uk/gov/justice/digital/legaladviser/persistence/FileDataReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/uk/gov/justice/digital/legaladviser/persistence/FileDataReader.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/uk/gov/justice/digital/legaladviser/persistence/LegalAdviserPersistenceService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/uk/gov/justice/digital/legaladviser/persistence/LegalAdviserPersistenceService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/uk/gov/justice/digital/legaladviser/resources/ConfigSettings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/uk/gov/justice/digital/legaladviser/resources/ConfigSettings.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/uk/gov/justice/digital/legaladviser/service/LegalAdviserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/uk/gov/justice/digital/legaladviser/service/LegalAdviserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tmp/bootJar/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/build/tmp/bootJar/MANIFEST.MF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/META-INF/moj-excercise-legal-providers.main.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/uk/gov/justice/digital/legaladviser/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/uk/gov/justice/digital/legaladviser/domain/LegalAdviser.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/uk/gov/justice/digital/legaladviser/persistence/DataReader.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/uk/gov/justice/digital/legaladviser/persistence/FileDataReader.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/uk/gov/justice/digital/legaladviser/persistence/LegalAdviserPersistenceService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/uk/gov/justice/digital/legaladviser/resources/ConfigSettings.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/uk/gov/justice/digital/legaladviser/service/LegalAdviserController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/META-INF/moj-excercise-legal-providers.main.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/uk/gov/justice/digital/legaladviser/test/AppTest.class" beforeDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/classes/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -52,9 +49,6 @@
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="DefaultGradleProjectSettings">
-    <option name="isMigrated" value="true" />
   </component>
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
@@ -88,6 +82,18 @@
                 <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
                 <item name="moj-excercise-legal-providers" type="f1a62948:ProjectNode" />
                 <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="application" type="c8890929:TasksNode$1" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="moj-excercise-legal-providers" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="build" type="c8890929:TasksNode$1" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="moj-excercise-legal-providers" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
                 <item name="build scan" type="c8890929:TasksNode$1" />
               </path>
             </expand>
@@ -100,40 +106,82 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/uk/gov/justice/digital/legaladviser/exception/LegalAdviserApplicationExceptionHandler.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="24" column="25" selection-start-line="24" selection-start-column="25" selection-end-line="24" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/settings.gradle">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="517">
-                <caret line="86" column="13" lean-forward="true" selection-start-line="86" selection-start-column="13" selection-end-line="86" selection-end-column="13" />
-              </first_editor>
+              <first_editor />
               <second_editor />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/uk/gov/justice/digital/legaladviser/persistence/LegalAdviserPersistenceService.java">
+        <entry file="file://$PROJECT_DIR$/gradlew.bat">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="22" column="33" selection-start-line="22" selection-start-column="33" selection-end-line="22" selection-end-column="33" />
+            <state relative-caret-position="-58">
+              <caret line="27" column="40" selection-start-line="27" selection-start-column="40" selection-end-line="27" selection-end-column="40" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="n#!!doc" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/uk/gov/justice/digital/legaladviser/domain/LegalAdviser.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="409">
-              <caret line="56" column="17" selection-start-line="56" selection-start-column="17" selection-end-line="56" selection-end-column="17" />
-              <folding>
-                <element signature="e#2864#2865#0" expanded="true" />
-                <element signature="e#2894#2895#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="102">
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/uk/gov/justice/digital/legaladviser/test/AppTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="24" column="13" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Dockerfile">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gradlew">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -153,6 +201,8 @@
       <find>legalprovider</find>
       <find>legaladvise</find>
       <find>null</find>
+      <find>java</find>
+      <find>compi;</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -161,49 +211,19 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/App.java" />
-        <option value="$PROJECT_DIR$/src/main/java/uk/gov/justice/digital/legalprovider/AppController.java" />
-        <option value="$PROJECT_DIR$/src/test/java/AppTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/uk/gov/justice/digital/legalprovider/test/AppTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/uk/gov/justice/digital/legalprovider/HelloGradleController.java" />
-        <option value="$PROJECT_DIR$/settings.gradle" />
-        <option value="$PROJECT_DIR$/src/main/java/uk/gov/justice/digital/legalprovider/App.java" />
-        <option value="$PROJECT_DIR$/src/main/java/uk/gov/justice/digital/legalprovider/Providers.java" />
-        <option value="$PROJECT_DIR$/src/test/java/uk/gov/justice/digital/legalprovider/LegalAdviserControllerTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/uk/gov/justice/digital/legalprovider/LegalAdviserController.java" />
-        <option value="$PROJECT_DIR$/src/main/java/uk/gov/justice/digital/legalprovider/domain/Providers.java" />
-        <option value="$PROJECT_DIR$/src/main/java/uk/gov/justice/digital/legalprovider/LegalAdviserPersistenceService.java" />
-        <option value="$PROJECT_DIR$/src/main/java/uk/gov/justice/digital/legalprovider/persistenc/LegalAdviserPersistenceService.java" />
-        <option value="$PROJECT_DIR$/src/main/java/uk/gov/justice/digital/legalprovider/domain/Provider.java" />
-        <option value="$PROJECT_DIR$/src/main/java/uk/gov/justice/digital/legalprovider/domain/LegalProvider.java" />
-        <option value="$PROJECT_DIR$/src/main/java/uk/gov/justice/digital/legalprovider/service/LegalAdviserController.java" />
-        <option value="$PROJECT_DIR$/src/main/java/uk/gov/justice/digital/legaladviser/domain/LegalProvider.java" />
-        <option value="$PROJECT_DIR$/src/main/java/uk/gov/justice/digital/legaladviser/ConfigSettings.java" />
-        <option value="$PROJECT_DIR$/src/main/java/uk/gov/justice/digital/legaladviser/settings/ConfigSettings.java" />
-        <option value="$PROJECT_DIR$/src/test/java/uk/gov/justice/digital/legaladviser/test/LegalAdviserControllerTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/uk/gov/justice/digital/legaladviser/test/AppTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/uk/gov/justice/digital/legaladviser/LegalAdviserNotFoundException.java" />
-        <option value="$PROJECT_DIR$/src/main/java/uk/gov/justice/digital/legaladviser/exception/LegalAdviserNotFoundException.java" />
-        <option value="$PROJECT_DIR$/src/main/java/uk/gov/justice/digital/legaladviser/service/LegalAdviserController.java" />
-        <option value="$PROJECT_DIR$/src/main/java/uk/gov/justice/digital/legaladviser/exception/ExceptionResponse.java" />
-        <option value="$PROJECT_DIR$/build.gradle" />
-        <option value="$PROJECT_DIR$/src/main/java/uk/gov/justice/digital/legaladviser/App.java" />
-        <option value="$PROJECT_DIR$/src/main/java/uk/gov/justice/digital/legaladviser/resources/ConfigSettings.java" />
         <option value="$PROJECT_DIR$/src/main/java/uk/gov/justice/digital/legaladviser/exception/LegalAdviserApplicationExceptionHandler.java" />
-        <option value="$PROJECT_DIR$/src/main/java/uk/gov/justice/digital/legaladviser/persistence/DataReader.java" />
-        <option value="$PROJECT_DIR$/src/main/java/uk/gov/justice/digital/legaladviser/persistence/FileDataReader.java" />
-        <option value="$PROJECT_DIR$/README.md" />
-        <option value="$PROJECT_DIR$/src/main/java/uk/gov/justice/digital/legaladviser/persistence/LegalAdviserPersistenceService.java" />
-        <option value="$PROJECT_DIR$/src/main/java/uk/gov/justice/digital/legaladviser/domain/LegalAdviser.java" />
+        <option value="$PROJECT_DIR$/build.gradle" />
+        <option value="$PROJECT_DIR$/Dockerfile" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="960" />
-    <option name="y" value="-1032" />
-    <option name="width" value="646" />
-    <option name="height" value="516" />
+    <option name="x" value="1912" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
   </component>
+  <component name="ProjectId" id="1QNmMToDvjVvz9eg8TOwhQ4G4Ft" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
@@ -212,19 +232,19 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="moj-excercise-legal-providers" type="b2602c69:ProjectViewProjectNode" />
-              <item name="moj-excercise-legal-providers" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="moj-excercise-legal-providers-suresh-techtask" type="b2602c69:ProjectViewProjectNode" />
+              <item name="moj-excercise-legal-providers-suresh-techtask" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -238,16 +258,20 @@
     <property name="RequestMappingsPanelWidth0" value="75" />
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="TF_FMT" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java/uk/gov/justice/digital/legaladviser" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/build.gradle" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.43153048" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="aws" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
@@ -277,90 +301,152 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.AppTest">
-    <configuration name="AppTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="moj-excercise-legal-providers.test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="uk.gov.justice.digital.legaladviser.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="uk.gov.justice.digital.legaladviser.test" />
-      <option name="MAIN_CLASS_NAME" value="uk.gov.justice.digital.legaladviser.test.AppTest" />
-      <option name="TEST_OBJECT" value="class" />
+  <component name="RunManager" selected="Gradle.moj-excercise-legal-providers-suresh-techtask [build]">
+    <configuration name="moj-excercise-legal-providers-suresh-techtask [bootJar]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="bootJar" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="moj-excercise-legal-providers-suresh-techtask [bootRun]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="bootRun" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="moj-excercise-legal-providers-suresh-techtask [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="build" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="moj-excercise-legal-providers-suresh-techtask [clean]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="clean" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <module name="moj-excercise-legal-providers" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AppTest.find_all_return_httpok" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="moj-excercise-legal-providers.test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="uk.gov.justice.digital.legaladviser.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="uk.gov.justice.digital.legaladviser.test" />
-      <option name="MAIN_CLASS_NAME" value="uk.gov.justice.digital.legaladviser.test.AppTest" />
-      <option name="METHOD_NAME" value="find_all_return_httpok" />
-      <option name="TEST_OBJECT" value="method" />
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <module name="moj-excercise-legal-providers" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AppTest.find_by_id_return_httpok" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="moj-excercise-legal-providers.test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="uk.gov.justice.digital.legaladviser.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="uk.gov.justice.digital.legaladviser.test" />
-      <option name="MAIN_CLASS_NAME" value="uk.gov.justice.digital.legaladviser.test.AppTest" />
-      <option name="METHOD_NAME" value="find_by_id_return_httpok" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
+    <configuration name="Dockerfile" type="docker-deploy" factoryName="dockerfile" temporary="true" server-name="Docker">
+      <deployment type="dockerfile">
+        <settings>
+          <option name="sourceFilePath" value="Dockerfile" />
+        </settings>
+      </deployment>
+      <method v="2" />
     </configuration>
-    <configuration name="AppTest.home_page_should_return_httpok" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="moj-excercise-legal-providers.test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="uk.gov.justice.digital.legaladviser.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="uk.gov.justice.digital.legaladviser.test" />
-      <option name="MAIN_CLASS_NAME" value="uk.gov.justice.digital.legaladviser.test.AppTest" />
-      <option name="METHOD_NAME" value="home_page_should_return_httpok" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="App" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
-      <module name="moj-excercise-legal-providers.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="uk.gov.justice.digital.legaladviser.persistence.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="SPRING_BOOT_MAIN_CLASS" value="uk.gov.justice.digital.legaladviser.App" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+    <list>
+      <item itemvalue="Docker.Dockerfile" />
+      <item itemvalue="Gradle.moj-excercise-legal-providers-suresh-techtask [bootRun]" />
+      <item itemvalue="Gradle.moj-excercise-legal-providers-suresh-techtask [bootJar]" />
+      <item itemvalue="Gradle.moj-excercise-legal-providers-suresh-techtask [clean]" />
+      <item itemvalue="Gradle.moj-excercise-legal-providers-suresh-techtask [build]" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.AppTest" />
-        <item itemvalue="Spring Boot.App" />
-        <item itemvalue="JUnit.AppTest.find_all_return_httpok" />
-        <item itemvalue="JUnit.AppTest.find_by_id_return_httpok" />
-        <item itemvalue="JUnit.AppTest.home_page_should_return_httpok" />
+        <item itemvalue="Gradle.moj-excercise-legal-providers-suresh-techtask [build]" />
+        <item itemvalue="Gradle.moj-excercise-legal-providers-suresh-techtask [bootJar]" />
+        <item itemvalue="Gradle.moj-excercise-legal-providers-suresh-techtask [clean]" />
+        <item itemvalue="Docker.Dockerfile" />
+        <item itemvalue="Gradle.moj-excercise-legal-providers-suresh-techtask [bootRun]" />
       </list>
     </recent_temporary>
   </component>
@@ -383,6 +469,13 @@
       <workItem from="1558376117136" duration="17998000" />
       <workItem from="1558397291425" duration="803000" />
       <workItem from="1558428695309" duration="13475000" />
+      <workItem from="1567619381326" duration="1346000" />
+      <workItem from="1568624073809" duration="743000" />
+      <workItem from="1568624835276" duration="58000" />
+      <workItem from="1582815447404" duration="212000" />
+      <workItem from="1582815702059" duration="2499000" />
+      <workItem from="1582820449153" duration="3994000" />
+      <workItem from="1582827831350" duration="2909000" />
     </task>
     <task id="LOCAL-00001" summary="Final commit">
       <created>1558393732521</created>
@@ -398,16 +491,17 @@
       <option name="project" value="LOCAL" />
       <updated>1558394091932</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Final commit">
+      <created>1582825243258</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1582825243258</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="AppTest_helloGradle - 2019.05.19 at 14h 19m 59s.xml">
-      <configuration name="AppTest.helloGradle" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="AppTest_find_by_id_return_httpok - 2019.05.20 at 23h 35m 39s.xml">
-      <configuration name="AppTest.find_by_id_return_httpok" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="AppTest_find_by_id_return_httpok - 2019.05.20 at 23h 38m 32s.xml">
       <configuration name="AppTest.find_by_id_return_httpok" configurationId="JUnit" />
     </history-entry>
@@ -432,96 +526,97 @@
     <history-entry file="AppTest - 2019.05.21 at 10h 16m 07s.xml">
       <configuration name="AppTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="AppTest - 2020.02.27 at 17h 06m 55s.xml">
+      <configuration name="AppTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AppTest - 2020.02.27 at 17h 08m 19s.xml">
+      <configuration name="AppTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="75473000" />
+    <option name="totallyTimeSpent" value="9614000" />
+  </component>
+  <component name="TodoView" selected-index="4">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="960" y="-1032" width="1296" height="1040" extended-state="6" />
+    <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.32605177" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16822916" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
-      <window_info id="Image Layers" order="3" />
-      <window_info id="Capture Tool" order="4" />
-      <window_info id="UI Designer" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info id="Web" order="7" side_tool="true" />
-      <window_info id="aws.explorer" order="8" side_tool="true" />
-      <window_info anchor="bottom" id="Inspection Results" weight="0.3936053" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info id="Web" order="5" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.5472482" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.39250275" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.53253794" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Build" order="7" weight="0.29073858" />
-      <window_info anchor="bottom" id="sbt-shell-toolwindow" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.033076074" />
-      <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info anchor="bottom" id="Java Enterprise" order="12" />
-      <window_info anchor="bottom" id="Spring" order="13" weight="0.32942554" />
-      <window_info anchor="bottom" id="Database Changes" order="14" />
-      <window_info anchor="bottom" id="Version Control" order="15" weight="0.3296582" />
-      <window_info active="true" anchor="bottom" id="Messages" order="16" visible="true" weight="0.31532526" />
+      <window_info active="true" anchor="bottom" id="TODO" order="6" visible="true" weight="0.10954447" />
+      <window_info anchor="bottom" id="Docker" order="7" weight="0.1691974" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.24295011" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="11" />
+      <window_info anchor="bottom" id="Build" order="12" weight="0.329718" />
+      <window_info anchor="bottom" id="Spring" order="13" />
+      <window_info anchor="bottom" id="Java Enterprise" order="14" />
+      <window_info anchor="bottom" id="Messages" order="15" weight="0.28958786" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Maven" order="3" />
-      <window_info anchor="right" id="Palette" order="4" />
-      <window_info anchor="right" id="sbt" order="5" />
-      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Gradle" order="4" visible="true" weight="0.228125" />
+      <window_info anchor="right" id="Maven" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
       <window_info anchor="right" id="Database" order="7" />
-      <window_info anchor="right" id="Gradle" order="8" weight="0.10598706" />
-      <window_info anchor="right" id="Palette&#9;" order="9" />
-      <window_info anchor="right" id="Theme Preview" order="10" />
-      <window_info anchor="right" id="Bean Validation" order="11" />
+      <window_info anchor="right" id="Bean Validation" order="8" />
     </layout>
-    <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27346277" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Designer" order="2" />
-      <window_info id="Image Layers" order="3" />
-      <window_info id="Capture Tool" order="4" />
-      <window_info id="UI Designer" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info id="Web" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.44079718" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3946002" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Build" order="7" weight="0.29073858" />
-      <window_info anchor="bottom" id="sbt-shell-toolwindow" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.26901874" />
-      <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info anchor="bottom" id="Java Enterprise" order="12" />
-      <window_info anchor="bottom" id="Spring" order="13" weight="0.32942554" />
-      <window_info anchor="bottom" id="Database Changes" order="14" />
-      <window_info anchor="bottom" id="Version Control" order="15" />
-      <window_info anchor="bottom" id="Messages" order="16" weight="0.31568018" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Maven" order="3" />
-      <window_info anchor="right" id="Palette" order="4" />
-      <window_info anchor="right" id="sbt" order="5" />
-      <window_info anchor="right" id="Capture Analysis" order="6" />
-      <window_info anchor="right" id="Database" order="7" />
-      <window_info anchor="right" id="Gradle" order="8" visible="true" weight="0.10598706" />
-      <window_info anchor="right" id="Palette&#9;" order="9" />
-      <window_info anchor="right" id="Theme Preview" order="10" />
-      <window_info anchor="right" id="Bean Validation" order="11" />
-    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Final commit" />
@@ -540,169 +635,130 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/test/java/uk/gov/justice/digital/legalprovider/LegalAdviserControllerTest.java" />
-    <entry file="file://$PROJECT_DIR$/gradlew.bat">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/legal-providers.csv">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="jar://C:/Program Files/Java/Jdk12.0.1/lib/src.zip!/java.base/java/util/function/Predicate.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="65">
-          <caret line="48" column="12" selection-start-line="48" selection-start-column="12" selection-end-line="48" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/uk/gov/justice/digital/legaladviser/test/LegalAdviserControllerTest.java" />
-    <entry file="file://$PROJECT_DIR$/settings.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="12" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gradlew">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="2" selection-start-line="3" selection-start-column="2" selection-end-line="3" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="36" column="34" selection-start-line="36" selection-start-column="34" selection-end-line="36" selection-end-column="34" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/uk/gov/justice/digital/legaladviser/service/LegalAdviserController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="35" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="35" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/uk/gov/justice/digital/legaladviser/App.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="578">
-          <caret line="38" column="2" selection-start-line="38" selection-start-column="2" selection-end-line="38" selection-end-column="2" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/uk/gov/justice/digital/legaladviser/exception/ExceptionResponse.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="25" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/uk/gov/justice/digital/legaladviser/exception/LegalAdviserApplicationExceptionHandler.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="272">
+          <caret line="24" column="25" selection-start-line="24" selection-start-column="25" selection-end-line="24" selection-end-column="25" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/uk/gov/justice/digital/legaladviser/exception/LegalAdviserNotFoundException.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/uk/gov/justice/digital/legaladviser/domain/LegalAdviser.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
-          <caret line="6" column="38" selection-start-line="6" selection-start-column="38" selection-end-line="6" selection-end-column="38" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/uk/gov/justice/digital/legaladviser/persistence/DataReader.java">
+    <entry file="file://$PROJECT_DIR$/settings.gradle">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="3" lean-forward="true" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
+        <state>
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="n#!!doc" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/uk/gov/justice/digital/legaladviser/persistence/FileDataReader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="16" column="52" selection-start-line="16" selection-start-column="52" selection-end-line="16" selection-end-column="52" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#659#660#0" expanded="true" />
-            <element signature="e#699#700#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/uk/gov/justice/digital/legaladviser/resources/ConfigSettings.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="8" column="36" selection-start-line="8" selection-start-column="36" selection-end-line="8" selection-end-column="36" />
-          <folding>
-            <element signature="e#403#404#0" expanded="true" />
-            <element signature="e#449#450#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/uk/gov/justice/digital/legaladviser/test/AppTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="42" selection-start-line="42" selection-end-line="42" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="517">
-            <caret line="86" column="13" lean-forward="true" selection-start-line="86" selection-start-column="13" selection-end-line="86" selection-end-column="13" />
-          </first_editor>
+          <first_editor />
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/uk/gov/justice/digital/legaladviser/persistence/LegalAdviserPersistenceService.java">
+    <entry file="file://$PROJECT_DIR$/gradlew">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/uk/gov/justice/digital/legaladviser/test/AppTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="22" column="33" selection-start-line="22" selection-start-column="33" selection-end-line="22" selection-end-column="33" />
+        <state relative-caret-position="153">
+          <caret line="24" column="13" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-58">
+          <caret line="27" column="40" selection-start-line="27" selection-start-column="40" selection-end-line="27" selection-end-column="40" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="n#!!doc" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/uk/gov/justice/digital/legaladviser/domain/LegalAdviser.java">
+    <entry file="file://$PROJECT_DIR$/gradlew.bat">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dockerfile">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="409">
-          <caret line="56" column="17" selection-start-line="56" selection-start-column="17" selection-end-line="56" selection-end-column="17" />
-          <folding>
-            <element signature="e#2864#2865#0" expanded="true" />
-            <element signature="e#2894#2895#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="102">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
         </state>
       </provider>
     </entry>
   </component>
   <component name="masterDetails">
     <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.43153048" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.43153048" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.43153048" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.43153048" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>moj-excercise-legal-providers</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.43153048" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
       <state key="ProjectJDKs.UI">
         <settings>
           <last-edited>1.8</last-edited>
@@ -710,6 +766,18 @@
             <option name="proportions">
               <list>
                 <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Gradle: ch.qos.logback:logback-classic:1.2.3</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.43153048" />
               </list>
             </option>
           </splitter-proportions>
