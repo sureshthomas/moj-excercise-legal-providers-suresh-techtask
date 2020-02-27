@@ -15,14 +15,14 @@ import java.util.Date;
 public class LegalAdviserApplicationExceptionHandler extends ResponseEntityExceptionHandler {
     @ExceptionHandler(Exception.class)
     public final ResponseEntity<Object> handleAllExceptions(Exception ex, WebRequest request) {
-        var response = new ExceptionResponse(new Date(), ex.getMessage(),
+        ExceptionResponse response = new ExceptionResponse(new Date(), ex.getMessage(),
                 request.getDescription(false));
         return new ResponseEntity<>(response, HttpStatus.INTERNAL_SERVER_ERROR);
     }
 
     @ExceptionHandler(LegalAdviserNotFoundException.class)
     public final ResponseEntity<Object> handleLegalAdviserNotFoundException(Exception ex, WebRequest request) {
-        var response = new ExceptionResponse(new Date(), ex.getMessage(),
+        ExceptionResponse response = new ExceptionResponse(new Date(), ex.getMessage(),
                 request.getDescription(false));
         return new ResponseEntity<>(response, HttpStatus.NOT_FOUND);
     }
