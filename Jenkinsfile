@@ -19,8 +19,23 @@ pipeline {
     }
 
     stage('build') {
-      steps {
-        echo 'Building'
+      parallel {
+        stage('build') {
+          steps {
+            echo 'Building'
+          }
+        }
+
+        stage('') {
+          steps {
+            build(propagate: true, job: 'ted')
+            withGradle() {
+              build 'bootJar'
+            }
+
+          }
+        }
+
       }
     }
 
